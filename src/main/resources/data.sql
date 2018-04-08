@@ -1,0 +1,1 @@
+INSERT INTO `test`.`shiyan` (`id`, `age`, `account`) VALUES ('12', 12, 15.5);
